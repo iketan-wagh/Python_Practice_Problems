@@ -34,26 +34,12 @@ Make sure Python is installed on your system.
    git clone https://github.com/iketan-wagh/Python_Practice_Problems.git
 Navigate to the project directory:
 
-bash
-Copy
-Edit
-cd Python_Practice_Problems
-Run a Python script:
 
-bash
-Copy
-Edit
-python filename.py
-Replace filename.py with the file you want to run. For example:
 
-bash
-Copy
-Edit
-python even_odd.py
+
+
 📁 File Structure
-matlab
-Copy
-Edit
+
 Python_Practice_Problems/
 ├── even_odd.py
 ├── factorial.py
@@ -62,7 +48,9 @@ Python_Practice_Problems/
 ├── positive_negative_or_zero_checker.py
 ├── simple_calculator.py
 └── sum_of_digits.py
+
 🤝 Contributing
+
 Have more Python practice ideas? Want to improve existing solutions?
 Fork the repo 
 Create a new branch 
