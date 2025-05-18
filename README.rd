@@ -35,9 +35,6 @@ Make sure Python is installed on your system.
 Navigate to the project directory:
 
 
-
-
-
 📁 File Structure
 
 Python_Practice_Problems/
