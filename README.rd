@@ -1,57 +1,79 @@
-<p align="center">
-  <img src="BANNER_IMAGE_LINK_HERE" alt="Python Practice Problems Banner" />
-</p>
+🐍 Python Practice Problem
 
-<h1 align="center">🐍 <strong>Python Practice Problems</strong></h1>
+Welcome to Python Practice Problems — a curated collection of beginner-friendly Python exercises designed to strengthen your coding fundamentals and logical thinking.
 
-<p align="center"><em>A curated collection of beginner-friendly Python exercises to boost your coding skills and logical thinking.</em></p>
-
----
-
-## 📌 **About This Repository**
+📌 About This Repository
 
 This repository contains a series of Python scripts that tackle common programming challenges.  
-Each script focuses on a specific problem, helping learners to:
+Each script focuses on a specific problem, making it easier for learners to:
+- Grasp fundamental concepts
+- Practice writing clean Python code
+- Improve problem-solving skills
 
-- Grasp **fundamental concepts**
-- Practice clean and efficient Python coding
-- Improve **problem-solving skills**
+🧠 Topics Covered
 
----
+- ✅ Even or Odd Number Checker
+- 🔢 Factorial Calculator
+- 🔁 Number Range Validator
+- 🔄 Palindrome Checker
+- ➕ Simple Calculator
+- 🔍 Positive, Negative, or Zero Identifier
+- 🔢 Sum of Digits Calculator
 
-## 🧠 **Topics Covered**
+ 🚀 Getting Started
 
-<p align="center">
+ ✅ Prerequisites
 
-✅ <strong>Even or Odd Number Checker</strong>  
-🔢 <strong>Factorial Calculator</strong>  
-🔁 <strong>Number Range Validator</strong>  
-🔄 <strong>Palindrome Checker</strong>  
-➕ <strong>Simple Calculator</strong>  
-🔍 <strong>Positive, Negative, or Zero Identifier</strong>  
-🔢 <strong>Sum of Digits Calculator</strong>
+Make sure Python is installed on your system.  
+👉 Download it here: [python.org/downloads](https://www.python.org/downloads/)
 
-</p>
+ 🛠️ Installation & Running
 
----
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/iketan-wagh/Python_Practice_Problems.git
+Navigate to the project directory:
 
-## 🚀 **Getting Started**
-
-### ✅ **Prerequisites**
-
-Ensure Python is installed on your system.  
-👉 [Download Python](https://www.python.org/downloads/)
-
----
-
-### 🛠️ **Installation & Running**
-
-```bash
-# Clone the repository
-git clone https://github.com/iketan-wagh/Python_Practice_Problems.git
-
-# Navigate to the project directory
+bash
+Copy
+Edit
 cd Python_Practice_Problems
+Run a Python script:
 
-# Run a Python script (replace 'filename.py' with actual script name)
+bash
+Copy
+Edit
 python filename.py
+Replace filename.py with the file you want to run. For example:
+
+bash
+Copy
+Edit
+python even_odd.py
+📁 File Structure
+matlab
+Copy
+Edit
+Python_Practice_Problems/
+├── even_odd.py
+├── factorial.py
+├── number_range_checker.py
+├── palindrome_checker.py
+├── positive_negative_or_zero_checker.py
+├── simple_calculator.py
+└── sum_of_digits.py
+🤝 Contributing
+Have more Python practice ideas? Want to improve existing solutions?
+Fork the repo 
+Create a new branch 
+Submit a pull request 📩
+
+All contributions are welcome!
+
+📄 License
+This project is licensed under the MIT License.
+See the LICENSE file for more details.
+
+📬 Contact
+For questions, ideas, or suggestions:
+GitHub: @iketan-wagh
