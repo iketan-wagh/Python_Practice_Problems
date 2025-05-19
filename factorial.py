@@ -13,13 +13,13 @@
 # Use a for loop to calculate factorial.
 # Print the result.
 
-input_number = int(input("Enter a non-negative integer: "))
+input_user = int(input("Enter no to find Factorial:"))
 
-# Check if the number is negative
-if input_number < 0:
-    print("Factorial is not defined for negative numbers.")
+factorial = 1
+
+if input_user == 0:
+    print("Factorial of Zero is 1")
 else:
-    factorial = 1
-    for i in range(1, input_number + 1):
-        factorial *= i  # Multiply factorial by each number from 1 to input_number
-    print(f"Factorial of {input_number} is: {factorial}")
+    for i in range(1, input_user+1) :
+        factorial*=i
+    print(factorial)
